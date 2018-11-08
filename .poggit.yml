@@ -1,5 +1,5 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/itzandrei100/ServerStats
 branches:
 - master
-projects: [ServerStats]
+projects: [TheServerInfoStats]
 ...
