@@ -2,7 +2,7 @@ name: ServerStats
 main: SwiftAndrew120/main
 api: [3.3.0, 3.0.0, 3.2.1, 4.0.0]
 version: 1.0
-author: SwiftAndrew120
+author: itzandrei100
 
 commands:
  statsofserver
